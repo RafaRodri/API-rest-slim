@@ -17,8 +17,5 @@
 </ul>
  
 <ul>     
-  <li>Documentation - API:
-     <ul>
-        <li>https://documenter.getpostman.com/view/6723450/S11HueBY
-     </ul>
+  <li><a target="_blank" href="https://documenter.getpostman.com/view/6723450/S11HueBY">Documentation - API</a>
 </ul>
