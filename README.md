@@ -17,5 +17,8 @@
 </ul>
  
 <ul>     
-  <li>[go](https://documenter.getpostman.com/view/6723450/S11HueBY){:target="_blank" rel="noopener"}
+  <li>Documentation - API:
+     <ul>
+        <li>https://documenter.getpostman.com/view/6723450/S11HueBY
+     </ul>
 </ul>
