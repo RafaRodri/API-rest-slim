@@ -1,0 +1,4 @@
+RewriteEngine on                    #Tem que estar liberado no apache 'rewrite_module'
+RewriteCond %{REQUEST_FILENAME} !-d #exceto diretórios
+RewriteCond %{REQUEST_FILENAME} !-f #exceto arquivos reais
+RewriteRule . index.php [L]         #Qqr coisa digitada na url, mande para index.php
