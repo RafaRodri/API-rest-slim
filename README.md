@@ -1,24 +1,25 @@
-<ul>
-  <li>Instalar as dependências: 
-     <ul>
-        <li><code>$ composer install</code>
-     </ul>
-</ul>
-     
-<ul> 
-  <li>Configure src/config/db.php
-</ul>
- 
-<ul> 
-  <li>Carga inicial de dados para teste:
-     <ul>
-        <li>Import Data <code>_.sql</code>
-     </ul>
-</ul>
- 
-<ul>     
-  <li>Documentation - API:
-     <ul>
-        <li>https://documenter.getpostman.com/view/6723450/S11HueBY
-     </ul>
-</ul>
+# API Rest
+
+## 1. Passos para começar
+
+### Clonando o Repositório
+
+`git clone https://github.com/RafaRodri/API-rest-slim.git`
+
+### Instalando as Dependências
+
+`composer install`
+
+## 2. Iniciando o Backend
+
+### Configurando o arquivo de conexão com o DB
+
+Em: `src/config/db.php`
+
+### Carga inicial de dados para teste
+
+Import Data: `_.sql`
+
+## 3. Documentação da API
+
+https://documenter.getpostman.com/view/6723450/S11HueBY
